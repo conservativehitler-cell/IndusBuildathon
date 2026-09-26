@@ -31,7 +31,6 @@ flowchart TD
     VoiceResponse --> EscapeLab[Escape Science Lab]
     
     EscapeLab --> Twist[Abhinav discovers Mimic was outside making the call]
-    Twist --> Reveal[Implied: Mimic is dumber inside the lab]
     
-    Reveal --> End([End of Game])
+    Twist --> End([End of Game])
 ```
